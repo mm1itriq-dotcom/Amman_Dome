@@ -1,0 +1,10 @@
+node_modules/
+dist/
+preview-staging/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+
+public/assets/architecture/*.png
